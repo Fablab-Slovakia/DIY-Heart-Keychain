@@ -1,4 +1,15 @@
-# DIY-Heart-Keychain
+# DIY prívesok na kľúčenku v tvare srdca
+
+Pôvodný projekt [SasaKaranovic.com/projects/diy-heart-keychain][1]. 
+
+Projekt pozostáva z plošného spoja v tvare srdca, na ktorom sa po dotyku kože s piktogramu úst rozsvietia oči. Napájaný je jednou gombíkovou batériou, ktorá môže byť formátu CR2032, CR2025, CR2016. Projekt by mal na jednu batériu vydržať niekoľko týždňov. Odporúča sa použiť batériu potiahnutú vrstvou horkej príchute, aby odradila od prehltnutia. Rezistory sú v puzdre 1206 a teda o veľkosti 3,2mm x 1,6. LED v puzdre 0805 a teda o veľkosti 2,0mm x 1,2mm. MCU je v puzdre SOIC-8 a teda o veľkosti 4,8mm x 4,0mm.
+
+
+Projekt sa odporúča, vzhľadom na rozmery použitých súčiastok, dať osádzať trpezlivejším deťom, ak nemajú predchádzaúce skúsenosti, alebo deťom, ktoré už majú základné skúsenosti. Pre začiatočníkov sa neodporúča.
+
+
+
+# Original project
 
 Check it out on [SasaKaranovic.com/projects/diy-heart-keychain][1]
 
